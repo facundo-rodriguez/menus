@@ -1,0 +1,35 @@
+ <header>
+        <div class="content">
+            
+            <h3>Magitems</h3>
+        
+            <input type="checkbox" id="check">
+
+            <label  class="icofont-navigation-menu" for=check></label>
+
+
+            <nav class="menu">
+
+                <ul>
+
+                    <li><label class="icofont-home" for=""><a href="">inicio</a></label></li>
+                    
+                    <li><label class="icofont-video-cam" for=""><a href="">Tutoriales</a></label></li>
+                   
+                    <li><label class="icofont-mail" for=""><a href="">Contactos</a></label></li>
+                   
+                    <li><label class="icofont-tasks"for=""><a href="">Acerca de</a></label></li>
+
+                </ul>
+
+
+            </nav>
+
+
+
+
+        </div>    
+    
+    
+    
+    </header>

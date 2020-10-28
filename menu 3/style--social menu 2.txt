@@ -1,0 +1,49 @@
+.social{
+
+    position: fixed;
+
+    top: 300px;
+    
+    left: 0;
+   
+    z-index: 100;
+
+}
+
+
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+
+    list-style: none;
+
+    margin-top: ;
+}
+
+nav ul li a{
+    display: inline-block;
+    color:green;
+    text-decoration: none;
+    padding:10px 10px;
+    background-color: crimson;
+    font-size: 25px;
+
+    transition: all 1s ease;
+}
+
+nav ul li .icofont-home{
+
+    background-color: cadetblue;
+}
+
+nav ul li a:hover{
+    
+    font-size: 40px;
+    padding: 10px 30px;
+    background-color: black;
+
+    
+}

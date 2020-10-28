@@ -1,0 +1,100 @@
+.social-bar{
+
+    position: fixed;
+
+    top:30%;
+
+    right: 0;
+
+    z-index: 100;
+
+}
+
+
+
+nav ul{
+
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+}
+
+nav ul li{
+
+    position: relative;
+}
+
+nav ul li a span{
+font-size: 20px;
+color: black;
+position: absolute;
+left: 50px;
+top:20%;
+background-color: yellow;
+}
+
+nav ul li a span:hover{
+
+  
+    
+}
+
+
+.social-bar nav ul li{
+
+    list-style: none;
+
+    margin-top: 20px;
+
+}
+
+.icon{
+
+    color: cornsilk;
+
+    padding: 10px;
+   
+    font-size: 30px;
+
+    text-decoration: none;
+
+    transition: all 0.5s;
+
+}
+
+.icofont-home{
+
+    background-color: red;
+   
+}
+
+.icofont-video-cam{
+
+    background-color: darkgoldenrod;
+
+}
+
+.icofont-navigation-menu{
+
+    background-color: blue;
+}
+
+
+.icofont-mail{
+
+    background-color: blueviolet;
+    
+}
+
+
+
+ .icon:hover{
+    transform: rotate(360deg);
+    color: cyan;
+    transition: rotate, padding-right, border-top-left-radius, border-bottom-left-radius, 1s;
+    padding-right: 90px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+

@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+
+    width: 100%;
+    height: 70px;
+
+    background-color:darkcyan;
+
+    
+}
+
+.logo{
+
+    width: 30%;
+
+    height: 70px;
+
+    background-color: ;
+
+    float: left;
+    
+}
+
+.logo p{
+
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    text-align: center;
+
+    margin-top: 10px;
+   
+    
+}
+
+.logo p:hover{
+
+    color: coral;
+}
+
+
+.navegacion{
+
+    width: 70%;
+
+    background-color:;
+
+    float: left;
+
+    height: 70px;
+}
+
+.navegacion nav ul {
+
+float: right;
+
+ margin-top: 20px;
+
+margin-right: 40px;
+
+}
+
+.navegacion nav ul li{
+
+    display: inline-block;
+
+    margin-left: 10px;
+    
+}
+
+.navegacion nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: greenyellow;
+    display: inline-block;
+}
+
+
+.navegacion ul li a:hover{
+
+    color: coral;
+
+    transform: rotate(360deg);
+
+    transition: 2s all;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="icofont/icofont.min.css">
+
+    <link rel="stylesheet" href="icofont/icofont.css">
+
+    <link rel="stylesheet" href="icofont-1/icofont.min.css">
+
+    <link rel="stylesheet" href="icofont-1/icofont.css">
+
+</head>
+
+
+<body>
+    
+<nav class="social">
+    <ul>
+        <li><a class="icofont-home" href="http://www.facebook.com" target="_blank"></a></li>
+
+        <li><a class="icofont-video-cam" href="http://www.twitter.com"></a></li>
+
+        <li><a class="icofont-navigation-menu" href="http://www.instagram.com"></a></li>
+
+        <li><a class="icofont-mail" href="http://www.youtube.com"></a></li>
+    </ul>
+</nav>
+
+
+</body>
+</html>
